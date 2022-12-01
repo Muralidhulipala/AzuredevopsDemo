@@ -12,7 +12,7 @@ namespace azuredevopspipelinedemo
         [SetUp]
         public void Setup()
         {
-            new WebDriverManager.DriverManager().SetUpDriver(new ChromeConfig());
+           //// new WebDriverManager.DriverManager().SetUpDriver(new ChromeConfig());
             driver = new ChromeDriver();
             driver.Url = "https://www.geico.com/";
             driver.Manage().Window.Maximize();

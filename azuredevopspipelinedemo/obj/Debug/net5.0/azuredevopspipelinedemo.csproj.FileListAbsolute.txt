@@ -107,3 +107,4 @@ C:\Users\Mural\source\repos\azuredevopspipelinedemo\azuredevopspipelinedemo\obj\
 C:\Users\Mural\source\repos\azuredevopspipelinedemo\azuredevopspipelinedemo\obj\Debug\net5.0\ref\azuredevopspipelinedemo.dll
 C:\Users\Mural\source\repos\azuredevopspipelinedemo\azuredevopspipelinedemo\obj\Debug\net5.0\azuredevopspipelinedemo.pdb
 C:\Users\Mural\source\repos\azuredevopspipelinedemo\azuredevopspipelinedemo\obj\Debug\net5.0\azuredevopspipelinedemo.genruntimeconfig.cache
+C:\Users\Mural\source\repos\azuredevopspipelinedemo\azuredevopspipelinedemo\obj\Debug\net5.0\azuredevopspipelinedemo.csprojAssemblyReference.cache
